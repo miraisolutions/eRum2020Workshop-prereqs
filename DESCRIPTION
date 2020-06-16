@@ -1,0 +1,18 @@
+Package: eRum2020Workshop-prereqs
+Title: e-Rum2020 Workshop Prerequisites
+Version: 0.0.0.9000
+Authors@R: person('Mirai', 'Solutions', email = 'info@mirai-solutions.com', role = c('cre', 'aut'))
+Description: e-Rum2020 Workshop prerequisites.
+License: GPL-3
+Imports: 
+    config,
+    golem,
+    shiny,
+    testthat,
+    roxygen2,
+    usethis,
+    remotes,
+    devtools,
+    shinyWidgets,
+    pkgload,
+    rsconnect
