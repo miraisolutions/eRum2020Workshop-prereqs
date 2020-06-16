@@ -1,6 +1,6 @@
 # e-Rum2020 Workshop Prerequisites
 
-Package prerequisites for Mirai's workshop at e-Rum2020 can be fulfilled using this repo as follows:
+Package prerequisites for [Mirai's workshop](https://github.com/miraisolutions/eRum2020Workshop#readme) at e-Rum2020 can be fulfilled using this repo as follows:
 
 - Create a new RStudio project from the repo (https://github.com/miraisolutions/eRum2020Workshop-prereqs)
   ```
