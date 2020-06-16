@@ -15,4 +15,5 @@ Imports:
     devtools,
     shinyWidgets,
     pkgload,
-    rsconnect
+    rsconnect,
+    miniUI
